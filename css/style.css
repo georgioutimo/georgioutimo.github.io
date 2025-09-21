@@ -1,0 +1,22 @@
+.myphoto1{
+	width:100%;
+}
+
+.myphoto2{
+	width:80%;
+}
+
+.myphoto3{
+	width:100%;
+}
+
+body{
+	background-color: seagreen;
+}
+.background-photo{
+	background-image: url(../img/imagename.png);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+}
+
